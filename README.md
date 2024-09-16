@@ -10,3 +10,9 @@ Dataset yang digunakan dalam proyek ini terdiri dari gambar-gambar tangan yang m
 Unduh dataset dari Link Dataset.
 Buka notebook Jupyter yang telah disediakan untuk langkah-langkah analisis dan pelatihan model.
 Ikuti petunjuk dalam notebook untuk melaksanakan langkah-langkah proyek.
+
+# Unduh dataset dari Link Dataset.
+Buka notebook Jupyter yang telah disediakan untuk langkah-langkah analisis dan pelatihan model.
+Ikuti petunjuk dalam notebook untuk melaksanakan langkah-langkah proyek. 
+
+https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
