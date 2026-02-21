@@ -1,18 +1,16 @@
-# machine learning beginner
+# Machine Learning Beginner
 
-# Deskripsi Proyek
-Proyek ini merupakan implementasi klasifikasi gambar sederhana yang bertujuan untuk mengenali gambar-gambar yang menggambarkan tangan dalam bentuk batu (rock), kertas (paper), atau gunting (scissors). Tujuan proyek ini adalah untuk membangun model pembelajaran mesin yang dapat memprediksi kategori gambar berdasarkan dataset gambar tangan tersebut.
+# Project Description
+This project is a simple image classification implementation aimed at recognizing images of hands showing rock, paper, or scissors. The goal of this project is to build a machine learning model that can predict the category of an image based on a hand gesture dataset.
 
 # Dataset
-Dataset yang digunakan dalam proyek ini terdiri dari gambar-gambar tangan yang menggambarkan batu, kertas, dan gunting. Dataset ini dapat didownload melalui Link Dataset.
+The dataset used in this project consists of hand images representing rock, paper, and scissors. The dataset can be downloaded from the following link:
 
-# Cara Penggunaan
-Unduh dataset dari Link Dataset.
-Buka notebook Jupyter yang telah disediakan untuk langkah-langkah analisis dan pelatihan model.
-Ikuti petunjuk dalam notebook untuk melaksanakan langkah-langkah proyek.
+https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
 
-# Unduh dataset dari Link Dataset.
-Buka notebook Jupyter yang telah disediakan untuk langkah-langkah analisis dan pelatihan model.
-Ikuti petunjuk dalam notebook untuk melaksanakan langkah-langkah proyek. 
+# How to Use
+	1.	Download the dataset from the link above.
+	2.	Open the provided Jupyter Notebook for the analysis and model training steps.
+	3.	Follow the instructions in the notebook to complete the project steps.
 
 https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
